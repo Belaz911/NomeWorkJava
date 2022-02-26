@@ -77,6 +77,7 @@ public class Main {
         for (int i = 0; i < num.length; i++) {
             num[i] = initialValue;
         }
+        //Не догнал как вывести результат
         return num;
 
     }
